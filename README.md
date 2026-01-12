@@ -18,15 +18,15 @@ Real-time visualization of detected risks
 
 Modular and easy-to-extend Python codebase
 
-📂 Project Structure
-twoWheeler_RiskAnalizer/
-├── Main.py
-├── detectionClass.py
-├── DenseOpticalFlow.py
-├── risk_analyzer.py
-├── risk_display.py
-├── utils.py
-└── README.md
+## Project Structure
+
+- Main.py – Main entry point  
+- detectionClass.py – YOLO-based detection  
+- DenseOpticalFlow.py – Motion analysis  
+- risk_analyzer.py – Risk evaluation logic  
+- risk_display.py – Visualization  
+- utils.py – Helper functions  
+
 
 🚀 Usage
 python Main.py
